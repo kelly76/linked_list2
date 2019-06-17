@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1560788023 source:c:\users\kelly\desktop\c++\linked_list\main.cpp
+	<iostream>
+
+1560788023 
+
+1560743768 source:c:\users\kelly\desktop\c++\linked_list\iterator.cpp
+	"iterator.h"
+
+1560743768 h"
+
+1560775375 c:\users\kelly\desktop\c++\linked_list\iterator.h
+
+1560792687 source:/home/cs-unsa21/Documentos/linked_list/main.cpp
+	<iostream>
+
